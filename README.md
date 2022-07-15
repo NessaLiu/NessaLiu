@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Vanessa Liu - a student currently studing Computing and Financial Management.
+My name is Vanessa Liu - a student currently studing Computer Science.
 
 :fire: I've been trying to learn new things so that I can create personal projects. It's been super interesting and I'm eager to continue the learning journey!
 
