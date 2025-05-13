@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Vanessa Liu - a student currently studing Computer Science.
+My name is Vanessa Liu - a 4th year student currently studying Computer Science at the University of Waterloo.
 
 :fire: I've been trying to learn new things so that I can create personal projects. It's been super interesting and I'm eager to continue the learning journey!
 
