@@ -23,5 +23,7 @@ My name is Vanessa Liu - a 4th year student currently studying Computer Science 
 
 :art: With a passion for art brewed from childhood, I love sketching, painting and working with designs and illustrations using traditional and digital media! :pencil2:
 
+:camera: I also love documenting special moments and capturing experiences through photography and a bit of vlogging as well :sunglasses:
+
 :envelope: I'm always excited to make new connections, so feel free to reach out to me: https://www.linkedin.com/in/vanessa-liu014/ 
 
